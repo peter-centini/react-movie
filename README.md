@@ -67,5 +67,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Screen 
 
 <p align="center">
-<img src="https://github.com/peter-centini/resto-pizza-nextjs/blob/dev/site%20pizza.jpeg" width="350" title="project img">
+<img src="https://github.com/peter-centini/react-movie/blob/main/screen.png" width="350" title="project img">
 </p>
